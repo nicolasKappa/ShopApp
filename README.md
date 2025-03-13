@@ -1,4 +1,4 @@
-# 🛒 ShopApp – E-Commerce Web Application
+# ShopApp – E-Commerce Web Application
 
 **ShopApp** is a fully functional e-commerce web application designed to provide users with a smooth and intuitive online shopping experience. It includes user authentication, and Product Management
 
@@ -38,22 +38,22 @@ const transporter = nodemailer.createTransport(
 
 
 
-## 🚀 Features
+## Features
 
-- 🔐 **User Authentication** – Secure login and registration system  
-- 🛍️ **Product Management** – Browse, search, and filter products  
-- 🛒 **Shopping Cart** – Add, remove, and update cart items  
-- 📦 **Order Tracking** – View order history and status updates  
-- 🎨 **Responsive UI** – Fully optimized for different screen sizes  
+- **User Authentication** – Secure login and registration system  
+- **Product Management** – Browse, search, and filter products  
+- **Shopping Cart** – Add, remove, and update cart items  
+- **Order Tracking** – View order history and status updates  
+- **Responsive UI** – Fully optimized for different screen sizes  
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Backend**: Node.js, Express,  
 - **Database**: MongoDB
 - **Frontend**: EJS, CSS
 - **Authentication**: session-based authentication with cookies
 
-## 🏗️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the Repository**  
    ```bash
@@ -84,7 +84,7 @@ npm start
 # Access the Application
  - **Open your browser and go to http://localhost:3000**
 
-## 🛠️ Contributing 
+## Contributing 
 
  **Contributions are welcome! To contribute:**
 
@@ -94,7 +94,7 @@ npm start
 - **Push to the branch (git push origin feature-name)**
 - **Open a pull request**
 
-## 📄 License
+## License
 
  - **This project is licensed under the MIT License. See the LICENSE file for details.**
 
